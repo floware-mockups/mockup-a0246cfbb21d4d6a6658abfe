@@ -163,8 +163,20 @@
         "ownerColumn": 3,
         "normColumn": 4,
         "recurrenceColumn": 5,
-        "completedColumn": 6
-      }
+        "completedColumn": 6,
+        "yellowUpTo": 45
+      },
+      "chartColumn": 2
+    }
+  ],
+  "custom": [
+    {
+      "name": "DialogoDettaglioScadenze",
+      "title": "Dettaglio delle scadenze",
+      "description": "Elenco selezionabile con dialogo di dettaglio della scadenza.",
+      "role": "section",
+      "pageId": "scadenze",
+      "position": "bottom"
     }
   ]
 }
